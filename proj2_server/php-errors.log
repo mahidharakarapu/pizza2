@@ -1,0 +1,36 @@
+[05-May-2018 19:40:33 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/
+[05-May-2018 19:40:33 Europe/Berlin] Failed to get DB connection, error = SQLSTATE[HY000] [1045] Access denied for user 'svr_user'@'localhost' (using password: YES)
+[05-May-2018 19:40:33 Europe/Berlin] PHP Notice:  Undefined variable: in_webservice_code in C:\xampp\htdocs\cs637\akashkn\proj2\proj2_server\model\database.php on line 21
+[05-May-2018 19:42:57 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/
+[07-May-2018 05:09:13 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/
+[07-May-2018 05:09:24 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/admin/
+[07-May-2018 05:09:32 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/cart/
+[07-May-2018 05:09:34 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/
+[07-May-2018 05:09:35 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/account/
+[07-May-2018 05:09:45 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/
+[07-May-2018 05:09:47 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/catalog/?category_id=1
+[07-May-2018 05:09:50 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/
+[07-May-2018 23:42:16 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/
+[07-May-2018 23:42:46 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/
+[07-May-2018 23:43:01 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/catalog/?category_id=4
+[07-May-2018 23:43:08 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/cart/
+[07-May-2018 23:43:10 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/
+[07-May-2018 23:43:12 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/catalog/?category_id=4
+[07-May-2018 23:43:16 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/catalog/?product_id=11
+[07-May-2018 23:43:20 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/cart/?action=add&product_id=11&quantity=1
+[07-May-2018 23:43:27 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/catalog/?category_id=4
+[07-May-2018 23:43:29 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/catalog/?product_id=12
+[07-May-2018 23:43:31 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/cart/?action=add&product_id=12&quantity=1
+[07-May-2018 23:43:34 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/checkout/
+[07-May-2018 23:55:08 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/
+[07-May-2018 23:56:24 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/
+[08-May-2018 00:00:19 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/
+[08-May-2018 05:56:33 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/
+[08-May-2018 05:58:14 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/
+[08-May-2018 06:07:46 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/
+[08-May-2018 19:02:47 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/
+[08-May-2018 19:02:56 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/cart/
+[08-May-2018 19:03:00 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/checkout/
+[08-May-2018 19:03:05 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/catalog/?category_id=4
+[08-May-2018 19:06:10 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/
+[08-May-2018 22:22:14 Europe/Berlin] =====Starting request: /cs637/akashkn/proj2/proj2_server/
